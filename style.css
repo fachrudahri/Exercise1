@@ -1,0 +1,26 @@
+p {
+    color: orangered;
+    text-align: justify;
+}
+
+h3 {
+    color: red;
+}
+
+#istimewa {
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid green;
+    text-align: center;
+}
+
+.special {
+    color: green;
+}
+
+.garis-bawah {
+    text-decoration: underline;
+}
+
+.kotak {
+    border: 1px solid black;
+}

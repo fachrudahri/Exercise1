@@ -1,0 +1,72 @@
+
+.banner {
+    text-align: center;
+    background-image: url(./banner.jpg);
+    height: auto;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    width: 100%;
+}
+
+.slogan {
+    font-size: 30px;
+    color: white;
+    padding-top: 250px;
+    padding-bottom: 250px;
+    text-shadow: 1px 1px 1px black; 
+}
+
+.cont {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.photo {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.profile {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.about {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.text-name {
+    text-align: center;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+
+.text-about {
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+
+.paragraf {
+    text-align: justify;
+}
+
+.text-email, .text-status, .text-telpon {
+    padding-bottom: 5px;
+}
+
+.text-barcode img{
+    margin-top: -20px;
+    width: 100px;
+}
+
+.hvr:hover {
+    background-color: azure;
+    border-radius: 10px
+}
+
+hr {
+    border-top: 5px solid rgba(0,0,0,.1) !important;
+}
